@@ -1,7 +1,4 @@
 flask
-flask-socketio
-gevent-websocket
-ccxt
-gunicorn
 requests
+pandas
 
